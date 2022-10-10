@@ -1,4 +1,1 @@
-Hello, my name is Furkan 
-Im a student in a Highschool
-I love Python, Bash and C#
-I love Cyber Security etc.
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
