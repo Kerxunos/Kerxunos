@@ -1,4 +1,4 @@
-## HI My name is Furkan
+## HI, My name is Furkan
 - You can reach me with instagram 
 - I'm learning python, C#, Cyber Security
 - I'm a student
