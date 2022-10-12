@@ -1,5 +1,5 @@
 ## HI, My name is Furkan
-- You can reach me with instagram or steam
+- You can reach me with instagram
 - I'm learning python, C#, Cyber Security
 - I'm a high school student
 
