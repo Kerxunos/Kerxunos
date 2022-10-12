@@ -4,6 +4,6 @@
 - I'm a high school student
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/furkann.sh/) 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/furkan-tarhan-35a71522a/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-tarhan-35a71522a/)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Kerxunos&show_icons=true&theme=radical)
